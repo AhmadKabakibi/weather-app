@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "single page app that presents a weather forcast for a list of 5 eu cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadKabakibi/weather-app.git"
+  },
+  "author": "a.kabakibi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmadKabakibi/weather-app/issues"
+  },
+  "homepage": "https://github.com/AhmadKabakibi/weather-app#readme",
+  "dependencies": {
+    "angular": "^1.5.11",
+    "angular-route": "^1.5.11",
+    "angular-sanitize": "^1.5.11"
+  }
+}
